@@ -1,0 +1,78 @@
+/**************************** General ****************************************/
+a{
+  color: #DFEDFD;
+  cursor:pointer;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+a:link{
+  text-decoration:none;
+}
+body{
+  color: #DFEDFD;
+}
+H6{
+  color:#92C6FC;
+  margin-top:4px;
+  margin-bottom:4px;
+}
+p{
+  margin-bottom: 8px;
+}
+.background{
+  background-color:#314254;
+}
+.left-main-row{
+  background-color:#314254;
+}
+.right-main-row{
+  background-color:#759EC9;
+}
+/**************************** Additional Skills*******************************/
+.progress-boostrap{
+  width:60%;
+  height: 7px;
+}
+.progress-CSharp{
+  width:50%;
+  height: 7px;
+}
+.progress-CSS{
+  width:70%;
+  height: 7px;
+}
+.progress-english{
+  width:95%;
+  height:7px;
+}
+.progress-norwegian{
+  width:100%;
+  height:7px;
+}
+.progress-polish{
+  width:70%;
+  height:7px;
+}
+.progress-selenium{
+  width:60%;
+  height:7px;
+}
+.progress-general{
+  height: 7px;
+  background-color: #6E757D;
+}
+.progress-text{
+ text-align:right;
+ font-size: 0.8em;
+ margin-bottom: 0;
+}
+/**************************** Awards, Courses & Certificates******************/
+/**************************** Experience *************************************/
+.experience{
+  margin-left:8px;
+}
+.date{
+  text-align: left;
+  vertical-align: top;
+}
+/**************************** Education **************************************/
